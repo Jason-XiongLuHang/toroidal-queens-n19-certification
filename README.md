@@ -26,6 +26,11 @@ The human author must review the mathematical and implementation arguments.
 
 Use the assets in the [versioned release](https://github.com/Jason-XiongLuHang/toroidal-queens-n19-certification/releases/tag/v1.0.0-artifact).
 
+- `manuscript-20261019.pdf` and `manuscript-latex-20261019.zip`: the later
+  eight-page Springer-format review manuscript with author-supplied ORCID,
+  clearer mathematical displays and unchanged mathematical conclusions.
+  Their digests are in `MANUSCRIPT.sha256`. This is a preprint, not a
+  journal-accepted or independently peer-reviewed article.
 - `toroidal-queens-n19-code-and-manuscript.zip`: typeset six-page review draft, complete audit source, 280 CNFs/maps,
   original checker outputs, and provenance/licenses. Extract it and run
   `python -B final-source/verify_all.py` (Python 3.12+, standard library only).
