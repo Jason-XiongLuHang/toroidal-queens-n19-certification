@@ -1,6 +1,8 @@
 # Toroidal queens on the 19 x 19 board: reproducible proof artifact
 
-Author: Xiong Luhang. Artifact publication prepared October 19, 2026 (Asia/Shanghai).
+Author: Luhang Xiong (also displayed as Xiong Luhang in the frozen review draft).
+Author-supplied ORCID: https://orcid.org/0009-0000-8999-2939.
+Artifact publication prepared October 19, 2026 (Asia/Shanghai).
 
 ## Result and scope
 
@@ -24,7 +26,7 @@ The human author must review the mathematical and implementation arguments.
 
 Use the assets in the [versioned release](https://github.com/Jason-XiongLuHang/toroidal-queens-n19-certification/releases/tag/v1.0.0-artifact).
 
-- `toroidal-queens-n19-code-and-manuscript.zip`: reviewed six-page draft, complete audit source, 280 CNFs/maps,
+- `toroidal-queens-n19-code-and-manuscript.zip`: typeset six-page review draft, complete audit source, 280 CNFs/maps,
   original checker outputs, and provenance/licenses. Extract it and run
   `python -B final-source/verify_all.py` (Python 3.12+, standard library only).
 - `toroidal-queens-n19-drat-certificates.zip.part001` through `.part004`: four consecutive raw byte chunks
